@@ -1,0 +1,25 @@
+        ┌─────────────────────────┐
+        │  Start Program          │
+        └──────────┬──────────────┘
+                   │
+           ┌───────▼────────┐
+           │ Show Menu       │
+           │ 1-Add Car       │
+           │ 2-Show Cars     │
+           │ 3-Rent Car      │
+           │ 4-Return Car    │
+           │ 5-Exit          │
+           └───────┬────────┘
+                   │
+                   ▼
+            [User Choice]
+                   │
+         ┌─────────┼─────────┐
+         ▼         ▼         ▼
+      AddCar   RentCar   ReturnCar
+         │         │         │
+         ▼         ▼         ▼
+     ShowCars <───┘     Generate Bill
+                   │
+                   ▼
+                 Exit
