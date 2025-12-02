@@ -2,19 +2,19 @@
 # Description
 A simple, menu-driven, console-based Car Rental Management System written in C. This program allows users to manage a car fleet, handle rentals and returns, calculate bills using rental time, and automatically apply late fees. Designed for learning C concepts like structures, arrays, functions, and the use of the time.h library for real-world applications
 
-# Repository Structure/
+# Repository Structure
 
-|-- src/              # All .c source files (main.c, car_operations.c)
+|-- src/              (all .c files)
 
-|-- include/          # All .h header files (car_rental.h)
+|-- include/          (all .h files)
 
-|-- docs/             # Project report, flowcharts, assets
+|-- docs/             (project report, flowcharts, assets)
 
-|-- assets/           # (Optional) screenshots, diagrams
+|-- assets/           (optional: screenshots, diagrams)
 
-|-- README.md         # This file
+|-- README.md         (this file)
 
-|-- sample_input.txt  # (Optional) sample test inputs
+|-- sample_input.txt  (optional test inputs)
 
 
 # Getting Started
